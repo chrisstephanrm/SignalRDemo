@@ -1,0 +1,10 @@
+F:\toptal\SignalrDemo\SignalrDemo\SignalrDemo\obj\Debug\netcoreapp2.0\SignalrDemo.csproj.CoreCompileInputs.cache
+F:\toptal\SignalrDemo\SignalrDemo\SignalrDemo\obj\Debug\netcoreapp2.0\SignalrDemo.AssemblyInfoInputs.cache
+F:\toptal\SignalrDemo\SignalrDemo\SignalrDemo\obj\Debug\netcoreapp2.0\SignalrDemo.AssemblyInfo.cs
+F:\toptal\SignalrDemo\SignalrDemo\SignalrDemo\bin\Debug\netcoreapp2.0\SignalrDemo.deps.json
+F:\toptal\SignalrDemo\SignalrDemo\SignalrDemo\bin\Debug\netcoreapp2.0\SignalrDemo.runtimeconfig.json
+F:\toptal\SignalrDemo\SignalrDemo\SignalrDemo\bin\Debug\netcoreapp2.0\SignalrDemo.runtimeconfig.dev.json
+F:\toptal\SignalrDemo\SignalrDemo\SignalrDemo\bin\Debug\netcoreapp2.0\SignalrDemo.dll
+F:\toptal\SignalrDemo\SignalrDemo\SignalrDemo\bin\Debug\netcoreapp2.0\SignalrDemo.pdb
+F:\toptal\SignalrDemo\SignalrDemo\SignalrDemo\obj\Debug\netcoreapp2.0\SignalrDemo.dll
+F:\toptal\SignalrDemo\SignalrDemo\SignalrDemo\obj\Debug\netcoreapp2.0\SignalrDemo.pdb

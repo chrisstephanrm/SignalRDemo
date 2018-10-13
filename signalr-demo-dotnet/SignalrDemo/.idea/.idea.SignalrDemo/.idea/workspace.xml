@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7bb9277-8c63-468a-afca-aab3d83ce5b4" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SignalrDemo/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SignalrDemo/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SignalrDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SignalrDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SignalrDemo/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SignalrDemo.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SignalrDemo/Controllers/TestController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SignalrDemo/Models/MessageInstance.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SignalrDemo/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SignalrDemo/Signalr/IHubClient.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SignalrDemo/Signalr/SignalrHub.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SignalrDemo/SignalrDemo.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SignalrDemo/Startup.cs" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SignalrDemo/Signalr/IHubClient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SignalrDemo/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SignalrDemo/Signalr/SignalrHub.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SignalrDemo/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SignalrDemo/Controllers/TestController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SignalrDemo/Models/MessageInstance.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SignalrDemo/TestController.cs" />
+        <option value="$PROJECT_DIR$/SignalrDemo/SignalrHub.cs" />
+        <option value="$PROJECT_DIR$/SignalrDemo/Message.cs" />
+        <option value="$PROJECT_DIR$/SignalrDemo/Signalr/ITypedHubClient.cs" />
+        <option value="$PROJECT_DIR$/SignalrDemo/Controllers/TestController.cs" />
+        <option value="$PROJECT_DIR$/SignalrDemo/Models/MessageInstance.cs" />
+        <option value="$PROJECT_DIR$/SignalrDemo/Signalr/IHubClient.cs" />
+        <option value="$PROJECT_DIR$/SignalrDemo/Signalr/SignalrHub.cs" />
+        <option value="$PROJECT_DIR$/SignalrDemo/Startup.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SignalrDemo (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SignalrDemo (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SignalrDemo" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Murex - PT/Admin Panel Backend/bot-admin-panel-backend/AdminPanel.sln" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/SignalrDemo/bin/Debug/netcoreapp2.0/SignalrDemo.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SignalrDemo" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SignalrDemo/SignalrDemo.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <browser url="http://localhost:5000" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7bb9277-8c63-468a-afca-aab3d83ce5b4" name="Default" comment="" />
+      <created>1539378028593</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539378028593</updated>
+      <workItem from="1539378030129" duration="3515000" />
+      <workItem from="1539389643588" duration="4310000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7825000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="REST Client" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33333334" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32838285" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.34818482" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17776097" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" weight="0.33333334" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933994" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SignalrDemo/Controllers/TestController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+          <folding>
+            <marker date="1539394666607" expanded="true" signature="6:111" ph="..." />
+            <marker date="1539394666607" expanded="true" signature="214:1019" ph="{...}" />
+            <marker date="1539394666607" expanded="true" signature="285:1017" ph="{...}" />
+            <marker date="1539394666607" expanded="true" signature="435:493" ph="{...}" />
+            <marker date="1539394666607" expanded="true" signature="591:1011" ph="{...}" />
+            <marker date="1539394666607" expanded="true" signature="660:858" ph="{...}" />
+            <marker date="1539394666607" expanded="true" signature="890:961" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SignalrDemo/Signalr/SignalrHub.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <marker date="1539394666469" expanded="true" signature="6:91" ph="..." />
+            <marker date="1539394666469" expanded="true" signature="122:321" ph="{...}" />
+            <marker date="1539394666469" expanded="true" signature="170:319" ph="{...}" />
+            <marker date="1539394666469" expanded="true" signature="240:313" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SignalrDemo/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+          <folding>
+            <marker date="1539394666518" expanded="true" signature="6:160" ph="..." />
+            <marker date="1539394666518" expanded="true" signature="184:1492" ph="{...}" />
+            <marker date="1539394666518" expanded="true" signature="211:1490" ph="{...}" />
+            <marker date="1539394666518" expanded="true" signature="226:441" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+            <marker date="1539394666518" expanded="true" signature="508:948" ph="{...}" />
+            <marker date="1539394666518" expanded="true" signature="627:807" ph="{...}" />
+            <marker date="1539394666518" expanded="true" signature="1136:1484" ph="{...}" />
+            <marker date="1539394666518" expanded="true" signature="1183:1260" ph="{...}" />
+            <marker date="1539394666518" expanded="true" signature="1362:1445" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SignalrDemo/Controllers/TestController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding>
+            <marker date="1539394666607" expanded="true" signature="6:111" ph="..." />
+            <marker date="1539394666607" expanded="true" signature="214:1019" ph="{...}" />
+            <marker date="1539394666607" expanded="true" signature="285:1017" ph="{...}" />
+            <marker date="1539394666607" expanded="true" signature="435:493" ph="{...}" />
+            <marker date="1539394666607" expanded="true" signature="591:1011" ph="{...}" />
+            <marker date="1539394666607" expanded="true" signature="660:858" ph="{...}" />
+            <marker date="1539394666607" expanded="true" signature="890:961" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SignalrDemo/Models/MessageInstance.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+          <folding>
+            <marker date="1539394666380" expanded="true" signature="28:208" ph="{...}" />
+            <marker date="1539394666380" expanded="true" signature="63:206" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SignalrDemo/Signalr/IHubClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          <folding>
+            <marker date="1539394666556" expanded="true" signature="6:55" ph="..." />
+            <marker date="1539394666556" expanded="true" signature="86:186" ph="{...}" />
+            <marker date="1539394666556" expanded="true" signature="120:184" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SignalrDemo/Signalr/SignalrHub.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding>
+            <marker date="1539394666469" expanded="true" signature="6:91" ph="..." />
+            <marker date="1539394666469" expanded="true" signature="122:321" ph="{...}" />
+            <marker date="1539394666469" expanded="true" signature="170:319" ph="{...}" />
+            <marker date="1539394666469" expanded="true" signature="240:313" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SignalrDemo/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1539378103739" expanded="false" signature="6:255" ph="..." />
+            <marker date="1539378103739" expanded="true" signature="278:599" ph="{...}" />
+            <marker date="1539378103739" expanded="true" signature="305:597" ph="{...}" />
+            <marker date="1539378103739" expanded="true" signature="358:416" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SignalrDemo/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <folding>
+            <marker date="1539394666518" expanded="true" signature="6:160" ph="..." />
+            <marker date="1539394666518" expanded="true" signature="184:1492" ph="{...}" />
+            <marker date="1539394666518" expanded="true" signature="211:1490" ph="{...}" />
+            <marker date="1539394666518" expanded="true" signature="226:441" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+            <marker date="1539394666518" expanded="true" signature="508:948" ph="{...}" />
+            <marker date="1539394666518" expanded="true" signature="627:807" ph="{...}" />
+            <marker date="1539394666518" expanded="true" signature="1136:1484" ph="{...}" />
+            <marker date="1539394666518" expanded="true" signature="1183:1260" ph="{...}" />
+            <marker date="1539394666518" expanded="true" signature="1362:1445" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

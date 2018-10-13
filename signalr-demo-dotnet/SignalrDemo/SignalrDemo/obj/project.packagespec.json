@@ -1,0 +1,68 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "F:\\toptal\\SignalrDemo\\SignalrDemo\\SignalrDemo\\SignalrDemo.csproj",
+    "projectName": "SignalrDemo",
+    "projectPath": "F:\\toptal\\SignalrDemo\\SignalrDemo\\SignalrDemo\\SignalrDemo.csproj",
+    "outputPath": "F:\\toptal\\SignalrDemo\\SignalrDemo\\SignalrDemo\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.AspNet.SignalR.Client": {
+          "target": "Package",
+          "version": "[2.4.0-preview1-20180920-03, )"
+        },
+        "Microsoft.AspNetCore.All": {
+          "target": "Package",
+          "version": "[2.0.5, )"
+        },
+        "Microsoft.AspNetCore.SignalR": {
+          "target": "Package",
+          "version": "[1.0.0-preview2-final, )"
+        },
+        "Microsoft.AspNetCore.SignalR.MsgPack": {
+          "target": "Package",
+          "version": "[1.0.0-preview2-final, )"
+        },
+        "Microsoft.Extensions.DependencyInjection": {
+          "target": "Package",
+          "version": "[2.2.0-preview2-35157, )"
+        },
+        "Microsoft.Extensions.DependencyInjection.Abstractions": {
+          "target": "Package",
+          "version": "[2.2.0-preview2-35157, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

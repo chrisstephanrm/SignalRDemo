@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalrDemo", "SignalrDemo\SignalrDemo.csproj", "{ED561A44-603D-4FFB-9F7D-0CC1B6A8D750}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED561A44-603D-4FFB-9F7D-0CC1B6A8D750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED561A44-603D-4FFB-9F7D-0CC1B6A8D750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED561A44-603D-4FFB-9F7D-0CC1B6A8D750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED561A44-603D-4FFB-9F7D-0CC1B6A8D750}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
