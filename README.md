@@ -9,3 +9,11 @@ Open it restore, nuget packages and you are good to go
 run npm install command
 \nrun npm start
 \nAccess it on: http://localhost:4200
+
+### Prerequisites
+
+What things you need to install the software and how to install them
+
+```
+Give examples
+```
